@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAdd
+id btnUpdate
+id btnView
+id listView
+id tvId
+id tvName
+id tvTableName
+id tvTimestamp
+layout activity_main
+layout activity_vdata
+layout item_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Lab_3
+style Theme.Lab_3
+xml backup_rules
+xml data_extraction_rules

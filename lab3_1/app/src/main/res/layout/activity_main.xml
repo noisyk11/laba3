@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Кнопка для отображения данных -->
+    <Button
+        android:id="@+id/btnView"
+        android:layout_width="373dp"
+        android:layout_height="74dp"
+        android:layout_marginBottom="16dp"
+        android:text="Показать данные" />
+
+    <!-- Кнопка для добавления новой записи -->
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="369dp"
+        android:layout_height="69dp"
+        android:layout_marginBottom="16dp"
+        android:text="Добавить" />
+
+    <!-- Кнопка для обновления последней записи -->
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="388dp"
+        android:layout_height="73dp"
+        android:text="Обновить" />
+
+</LinearLayout>
